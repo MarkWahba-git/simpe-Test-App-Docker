@@ -8,8 +8,6 @@
 
 `yarn start`
 
-![](screenshot.png)
-
 ##### Build the image  
 
 `docker build -t workshop:latest .`
